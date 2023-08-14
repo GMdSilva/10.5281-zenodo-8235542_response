@@ -56,7 +56,6 @@ Lastly, we also noticed an error regarding the time points at which snapshots we
 
 For the sake of transparency, our collated trajectory (solvent and ions removed) is available at <https://github.com/GMdSilva/10.5281-zenodo-8235542_response/blob/main/abl1_wt_gr_to_i1_to_i2_traj.dcd>, and the topology at: https\://github.com/GMdSilva/10.5281-zenodo-8235542\_response/blob/main/abl1\_wt\_gr\_to\_i1\_to\_i2\_topology.pdb.
 
-![](https://lh3.googleusercontent.com/LTMO6GPfYSi6G8dUN3zG4On---3g3g9bRgzk70lbaZNLD1iBNhbmMzwfjVTKUsZ6UxQUjNDYbIV3aueUJ9rC468WtqKtt1AJJvgoGvA7KBZzfhBucbL8QOSfmBDwP9ilkdxGRfaQqoSIDiP6JRpcvAw)
 
 Figure 3’. Results of enhanced-sampling molecular dynamics (MD) simulations of the Abl1 Ground to I2 transition. A: Relevant Abl1 kinase core elements referenced in this study. B: Overlay of the I2 reference (PDB 6XRG) and three representative snapshots of the simulation spanning the transition showcasing differences in the aC-Helix and A-Loop positions. C: Evolution of simulation observables as a function of time.
 
