@@ -233,7 +233,7 @@ Figure 9B compares the RMSD of each mutant ensemble to the wild-type, ground sta
 
 **13. Residues are being addressed as codons in some places in the text**
 
-**R:** We will fix these inconsistencies in a future version of this manuscript.\
+**R:** We will fix these inconsistencies in a future version of this manuscript.
 
 **14. The authors may also want to include a few sentences contrasting their approach with this recently posted work:** [**https://www.biorxiv.org/con...**](https://disq.us/url?url=https%3A%2F%2Fwww.biorxiv.org%2Fcontent%2F10.1101%2F2023.08.06.552168v1%3APysS4uIBO-AeLcbCleCcvEGDfec\&cuid=2634513) **in the introduction or discussion.**
 
