@@ -66,7 +66,6 @@ Figure 3’. Results of enhanced-sampling molecular dynamics (MD) simulations of
 
 We used the Kruskal-Wallis H-test to measure the significance of the differences we observe in the GMCSF distributions and report them in Table ‘1. This test was chosen because it is unlikely that RMSD values will follow a normal distribution considering the nature of energy landscapes (which are more likely to exhibit multimodal distributions). These results line up with our previous observations: the H83Y predictions led to statistically insignificant differences, while the H87 mutations lead to differences that are orders of magnitude less significant than H83 or H15 mutations. The H83N mutation also led to changes that are not as statistically significant as those induced by H83R, matching the observed NMR results. 
 
-
 Table '1: Results of the Kruskal-Wallis H-test for the GMCSF ensemble predictions. The distributions for each observable described in "test" for each ensemble prediction described in "trial" were compared to the distribution of the same observable for the wild-type (GMCSF) for the hypothesis test.
 | p_value 	| h_stat 	| trial 	| test 	| sample_size 	|
 |---	|---	|---	|---	|---	|
@@ -235,6 +234,7 @@ Figure 9B compares the RMSD of each mutant ensemble to the wild-type, ground sta
 **13. Residues are being addressed as codons in some places in the text**
 
 **R:** We will fix these inconsistencies in a future version of this manuscript.\
+
 **14. The authors may also want to include a few sentences contrasting their approach with this recently posted work:** [**https://www.biorxiv.org/con...**](https://disq.us/url?url=https%3A%2F%2Fwww.biorxiv.org%2Fcontent%2F10.1101%2F2023.08.06.552168v1%3APysS4uIBO-AeLcbCleCcvEGDfec\&cuid=2634513) **in the introduction or discussion.**
 
 **R:** Agreed, especially given the similarity of the systems tested. We will discuss this study and how our works relate to it in a future version of this manuscript.
